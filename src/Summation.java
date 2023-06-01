@@ -17,7 +17,7 @@ public class Summation {
 
     public static void main(String[] args) {
         Summation v= new Summation();
-        v. foo(5,4);
+        v. foo(6,4);
 
 
     }
